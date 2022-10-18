@@ -1,3 +1,3 @@
 #!/bin/bash
 echo hi
-echo hi2
+echo -e "hi1/nhi2"
